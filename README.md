@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c2e59c,100:64b3f4&height=300&section=header&text=Doyoung%20Git😎&fontSize=90"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e53935,100:64b3f4&height=300&section=header&text=Doyoung%20Git😎&fontSize=90"/>
 
 
 
