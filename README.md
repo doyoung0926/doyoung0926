@@ -36,6 +36,6 @@ Here are some ideas to get you started:
 	 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
 </div>
 
-<div align='center'>
+<div align=center>
 ![doyoung0926's github stats](https://github-readme-stats.vercel.app/api?username=doyoung0926&show_icons=true)
 </div>
