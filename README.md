@@ -17,3 +17,5 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
  
  [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=qwe987)](https://solved.ac/qwe987)
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doyoung0926&show_icons=true&theme=radical)
