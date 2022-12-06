@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Doyoung%20Git:sunglasses:&fontSize=90"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Doyoung%20Git😎&fontSize=90"/>
 
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
  
@@ -23,5 +23,3 @@ Here are some ideas to get you started:
  
  
 ![doyoung0926's github stats](https://github-readme-stats.vercel.app/api?username=doyoung0926&show_icons=true)
-
-:sunglasses:
