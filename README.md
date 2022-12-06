@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+ 
+ [![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={qwe987})](https://solved.ac/{qwe987})
