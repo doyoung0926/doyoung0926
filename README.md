@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
  
- <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
  
  
 ![doyoung0926's github stats](https://github-readme-stats.vercel.app/api?username=doyoung0926&show_icons=true)
