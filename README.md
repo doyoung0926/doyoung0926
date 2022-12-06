@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
  
- [![Solved.ac
-qwe987](http://mazassumnida.wtf/api/mini/generate_badge?boj={qwe987})](https://solved.ac/{qwe987})
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj={qwe987})](https://solved.ac/{qwe987})
