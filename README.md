@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 	 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
 </div>
 
-<div align=center>
+
 ![doyoung0926's github stats](https://github-readme-stats.vercel.app/api?username=doyoung0926&show_icons=true)
 [![Solved.ac qwe987](http://mazassumnida.wtf/api/v2/generate_badge?boj=qwe987)](https://solved.ac/qwe987/)
-</div>
+
